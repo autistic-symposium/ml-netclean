@@ -43,7 +43,7 @@ if __name__ == '__main__':
         print 'Processing ' + input_file + ' ...'
         tempfile = open(input_file, 'r')
         aux = tempfile.read()
-        outfile = open(output_file, 'w')
+        outfile = open(output_file, 'a')
         outfile.write(aux)
         tempfile.close()
         outfile.close()

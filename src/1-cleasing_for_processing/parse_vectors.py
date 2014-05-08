@@ -47,7 +47,7 @@ def save_vectors(d, output, network):
                 f.write( ',')
 
             # Add the class label
-            # 1 - bio, 2 - info, 3 - social, 4 - tech          
+            # 4 - bio, 2 - info, 3 - social, 1 - tech          
             if  network == 'atlas' or network == 'carbon' or network == 'cellular' or network == 'metabolic' or network == 'yeast':
                 f.write('4')
             elif  network == 'auto' or network == 'road':
