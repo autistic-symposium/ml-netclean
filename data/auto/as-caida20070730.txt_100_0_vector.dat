@@ -1,0 +1,11 @@
+Size: 128
+Order: 127
+Assortativity: -0.8003715
+Transitivity: 0.0
+Degree: 0.015998
+Coreness: 1.0
+Number_Triangles: 0.0
+Number_Cliques: 128
+Clique_number: 2
+Clustering: 0.0
+Edge_connectivity: 1

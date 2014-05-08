@@ -1,5 +1,14 @@
-The data goes to the following steps:
-=====================================
+NetClean - Complex Networks Data-Cleanser
+=========================================
+
+Clease and organize the output files from:
+
+https://github.com/mariwahl/NetAna-Complex-Network-Analysis
+
+To be used on:
+
+https://github.com/mariwahl/MLNet-Classifying-Complex-Networks
+
 
 1. Cleasing:
 ------------
