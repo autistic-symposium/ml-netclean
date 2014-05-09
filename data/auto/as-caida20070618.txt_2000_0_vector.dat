@@ -9,3 +9,12 @@ Number_Cliques: 2518
 Clique_number: 4
 Clustering: 0.0600645
 Edge_connectivity: 1
+Betweeness: 0.0008507
+Centrality: 0.33482
+Communicability: 1360907097.66
+Density: 0.0009806
+Diameter: 5.0
+Eccentricity: 3.0
+Pagerank: 0
+Radius: 3.0
+Square_clustering: 0.0001083

@@ -18,3 +18,12 @@ Eccentricity: 4.0
 Pagerank: 0.009901
 Radius: 3.0
 Square_clustering: 0.0566093
+Betweeness: 0.019966
+Centrality: 0.3416038
+Communicability: 11.8915612
+Density: 0.0225743
+Diameter: 5.0
+Eccentricity: 4.0
+Pagerank: 0.009901
+Radius: 3.0
+Square_clustering: 0.0566093
