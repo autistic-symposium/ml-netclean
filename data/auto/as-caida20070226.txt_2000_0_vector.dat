@@ -1,0 +1,17 @@
+Size: 2391
+Order: 2385
+Assortativity: -0.9666968
+Transitivity: 0.0
+Degree: 0.000841
+Coreness: 1.0
+Number_Triangles: 0.0
+Number_Cliques: 2385
+Clique_number: 3
+Clustering: 0.0011617
+Edge_connectivity: 1
+Betweeness: 0.0004447
+Centrality: 0.4893146
+Communicability: 4.74157014331e+17
+Density: 0.000841
+Diameter: 6.0
+Eccentricity: 5.0

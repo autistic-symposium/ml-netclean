@@ -1,0 +1,11 @@
+Size: 550
+Order: 550
+Assortativity: -0.9963965
+Transitivity: 2e-05
+Degree: 0.003643
+Coreness: 1.0
+Number_Triangles: 0.0
+Number_Cliques: 548
+Clique_number: 3
+Clustering: 0.0036364
+Edge_connectivity: 1

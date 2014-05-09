@@ -1,0 +1,11 @@
+Size: 999
+Order: 500
+Assortativity: -0.3100591
+Transitivity: 0.0
+Degree: 0.008008
+Coreness: 2.0
+Number_Triangles: 0.0
+Number_Cliques: 999
+Clique_number: 2
+Clustering: 0.0
+Edge_connectivity: 1
