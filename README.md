@@ -1,9 +1,9 @@
-NetClean - Complex Networks Data-Cleanser
-=========================================
+# 🔋 NetClean - Complex Networks Data-Cleanser
 
-Cleanse and organize the output files from [this repository](https://github.com/mariwahl/NetAna-Complex-Network-Analysis).
 
-To be used [in this repository](https://github.com/mariwahl/MLNet-Classifying-Complex-Networks).
+Cleanse and organize the output files from [this repository](https://github.com/bt3gl/NetAna-Complex-Network-Analysis).
+
+To be used [in this repository](https://github.com///MLNet-Classifying-Complex-Networks).
 
 
 1. Cleansing:
@@ -24,7 +24,3 @@ Here we read the vectors files from previous step and create a unique file for a
 The file for the entire nets is here. The file "label.data" explain each column.
 
 
-Be social!
-----------
-
-Drop me a line or submit a patch!
