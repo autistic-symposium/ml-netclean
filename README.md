@@ -3,7 +3,7 @@
 
 Cleanse and organize the output files from [this repository](https://github.com/bt3gl/NetAna-Complex-Network-Analysis).
 
-To be used [in this repository](https://github.com///MLNet-Classifying-Complex-Networks).
+To be used [in this repository](https://github.com/MLNet-Classifying-Complex-Networks).
 
 
 ## 1. Cleansing Data
