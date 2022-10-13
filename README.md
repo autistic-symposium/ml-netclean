@@ -1,9 +1,12 @@
 # NetClean - Complex Networks Data-Cleanser
 
+<br>
 
-Cleanse and organize the output files from [this repository](https://github.com/bt3gl/NetAna-Complex-Network-Analysis).
+Cleanse and organize the output files from [this repository](https://github.com/MEV-WAIFU-LABS/NetAna-Complex-Network-Analysis).
 
-To be used [in this repository](https://github.com/bt3gl/MLNet-Classifying-Complex-Networks).
+To be used [in this repository](https://github.com/MEV-WAIFU-LABS/ML_Classifying_Complex_Networks).
+
+<br>
 
 
 ## 1. Cleansing Data
