@@ -1,36 +1,35 @@
-# NetClean - Complex Networks Data-Cleanser
+## ml-netclean
 
 <br>
 
-Cleanse and organize the output files from [this repository](https://github.com/MEV-WAIFU-LABS/NetAna-Complex-Network-Analysis).
+#### 👉🏼 this package cleanses complex networks data, extracted from the [ml-graph-network-analyser](https://github.com/autistic-symposium/ml-graph-network-analyser)
+#### 👉🏼 the final cleansed data can then be ingested on the [mlnet-complex-networks](https://github.com/autistic-symposium/mlnet-complex-networks) project
 
-To be used [in this repository](https://github.com/MEV-WAIFU-LABS/ML_Classifying_Complex_Networks).
 
 <br>
-
-
-## 1. Cleansing Data
-
-
-Here we get all the outputs from MNet Network Analysis and we put together into vector files, separated by sampling groups  (for further sampling analysis) and network type. It contains header. Missing values are completed with '-'.
-
-## 2. Organizing Data
-
-Here we get all the outputs from MNet Network Analysis and we put together into vector files for each network (all sampling results all together. We also add an additional column for the class. It does not contain the above header. Missing values are completed with '0'.
-
-## 3. Generating Final Files
-
-Here we read the vectors files from previous step and create a unique file for all the data.
-
-The file for the entire nets is here. The file "label.data" explain each column.
-
-
 
 ----
 
+### overview
 
-## License
 
-When making a reference to my work, please use my [website](http://www.astro.sunysb.edu/steinkirch/).
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+#### 1. cleansing the data
+
+* here we get all the outputs from **[ml-graph-network-analyser](https://github.com/autistic-symposium/ml-graph-network-analyser)** and put them together into vector files (separated by network type and sampling groups)
+* these files must have a header (or missing values must be completed with `'-'`)
+
+<br>
+
+## 2. organizing the data
+
+* here, the files above are organized into vector files for each network
+* an additional column for the classes is added
+* the header is removed from these files
+* missing values are completed with `0`
+
+<br>
+
+## 3. generating the final files
+
+* here, the vectors files are read from the previous step to create a unified file for all the data
 
