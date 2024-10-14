@@ -3,7 +3,7 @@
 <br>
 
 #### 👉🏼 this package cleanses complex networks data, extracted from the [ml-graph-network-analyser](https://github.com/autistic-symposium/ml-graph-network-analyser)
-#### 👉🏼 the final cleansed data can then be ingested on the [mlnet-complex-networks](https://github.com/autistic-symposium/mlnet-complex-networks) project
+#### 👉🏼 the final cleansed data files can then be ingested into the [mlnet-complex-networks](https://github.com/autistic-symposium/mlnet-complex-networks) project
 
 
 <br>
@@ -20,7 +20,7 @@
 
 <br>
 
-## 2. organizing the data
+#### 2. organizing the data
 
 * here, the files above are organized into vector files for each network
 * an additional column for the classes is added
@@ -29,7 +29,7 @@
 
 <br>
 
-## 3. generating the final files
+####  3. generating the final files
 
 * here, the vectors files are read from the previous step to create a unified file for all the data
 
