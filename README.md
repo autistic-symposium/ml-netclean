@@ -1,24 +1,35 @@
-# 🔋 NetClean - Complex Networks Data-Cleanser
+## ml-netclean
+
+<br>
+
+#### 👉🏼 this package cleanses complex networks data, extracted from the [ml-graph-network-analyser](https://github.com/autistic-symposium/ml-graph-network-analyser)
+#### 👉🏼 the final cleansed data files can then be ingested into the [mlnet-complex-networks](https://github.com/autistic-symposium/mlnet-complex-networks) project
 
 
-Cleanse and organize the output files from [this repository](https://github.com/bt3gl/NetAna-Complex-Network-Analysis).
+<br>
 
-To be used [in this repository](https://github.com/bt3gl/MLNet-Classifying-Complex-Networks).
+----
+
+### overview
 
 
-## 1. Cleansing Data
+#### 1. cleansing the data
 
+* here we get all the outputs from **[ml-graph-network-analyser](https://github.com/autistic-symposium/ml-graph-network-analyser)** and put them together into vector files (separated by network type and sampling groups)
+* these files must have a header (or missing values must be completed with `'-'`)
 
-Here we get all the outputs from MNet Network Analysis and we put together into vector files, separated by sampling groups  (for further sampling analysis) and network type. It contains header. Missing values are completed with '-'.
+<br>
 
-## 2. Organizing Data
+#### 2. organizing the data
 
-Here we get all the outputs from MNet Network Analysis and we put together into vector files for each network (all sampling results all together. We also add an additional column for the class. It does not contain the above header. Missing values are completed with '0'.
+* here, the files above are organized into vector files for each network
+* an additional column for the classes is added
+* the header is removed from these files
+* missing values are completed with `0`
 
-## 3. Generating Final Files
+<br>
 
-Here we read the vectors files from previous step and create a unique file for all the data.
+####  3. generating the final files
 
-The file for the entire nets is here. The file "label.data" explain each column.
-
+* here, the vectors files are read from the previous step to create a unified file for all the data
 
